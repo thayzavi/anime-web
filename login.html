@@ -142,26 +142,6 @@
             <p>Já possui uma conta? <a href="cadastro.html">Login</a></p>
         </form>
     </div>
-    <script>
-        // função para validar o form
-        function validarFormulario(){
-            var Usuario = document.getElementById("Usuario").value;
-            var senha = document.getElementById("senha").value;
-
-            if (Usuario === ""){
-                alert("Por favor preecha o campo usuário.");
-                return false;
-            }
-            if (senha === ""){
-                alert("Comfirme a senha.");
-                return false;
-            }
-            redirecionarhome();
-        }
-        // função para ir para outra página
-        function redirecionarhome (){
-        window.location.href = "index.html"
-        }
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>

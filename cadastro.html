@@ -139,7 +139,7 @@
                 <i class="fa-solid fa-lock"></i>
             </div>
             <div class="input-box">
-                <input type="password" id="confirmasenha" placeholder=" Comfirma senha" required>
+                <input type="password" id="confirmasenha" placeholder=" Confirma senha" required>
                 <i class="fa-solid fa-lock"></i>
             </div>
             <div class="class-btn">
@@ -149,35 +149,6 @@
             <p>Já possui uma conta? <a href="cadastro.html">Login</a></p>
         </form>
     </div>
-    <script>
-        // função para validar o form
-        function validarFormulario(){
-            var Usuario = document.getElementById("Usuario").value;
-            var contato  = document.getElementById("senha").value;
-            var senha = document.getElementById("senha").value;
-            var confirmasenha = document.getElementById("confirmasenha").value;
-            if (Usuario === ""){
-                alert("Por favor preecha o campo usuário.");
-                return false;
-            }
-            if (contato === ""){
-                alert("Preecha o campo email.");
-                return false;
-            }
-            if (senha === ""){
-                alert("Por favor preecha o campo senhar.");
-                return false;
-            }
-            if (senha === ""){
-                alert("Comfirme a senha.");
-                return false;
-            }
-            redirecionarhome();
-        }
-        // função para ir para outra página
-        function redirecionarhome (){
-        window.location.href = "index.html"
-        }
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>
