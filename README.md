@@ -28,4 +28,4 @@ Anime Web é um site dedicado a animes, oferecendo uma amostra da temporada de i
 
 Este projeto é desenvolvido por Thayza Silva. Se você deseja contribuir, entre em contato para discutir possíveis melhorias ou sugestões. 📬
 
-![Captura de tela_18-2-2025_8241_thayzavi github io](https://github.com/user-attachments/assets/80e795d6-0fae-4f23-8b98-98f5dc152509)
+![Captura de tela_18-2-2025_8322_thayzavi github io](https://github.com/user-attachments/assets/62ec8799-e3e2-456d-8e86-774c371ad52e)
