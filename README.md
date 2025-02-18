@@ -29,6 +29,9 @@ Anime Web é um projeto desenvolvido para faculdade, criado para exibir uma amos
 
 Este projeto é desenvolvido por Thayza Silva como parte de um trabalho de faculdade. Não há contribuições abertas para este projeto, pois é uma demonstração simples.
 ---
-
-Agora o README deixa claro que o site é uma demonstração sem funcionalidades interativas e que é um projeto acadêmico. 😄
+Web
 ![Captura de tela_18-2-2025_8322_thayzavi github io](https://github.com/user-attachments/assets/62ec8799-e3e2-456d-8e86-774c371ad52e)
+
+Moblile
+
+![Captura de tela_18-2-2025_84918_thayzavi github io](https://github.com/user-attachments/assets/a69893ab-559f-46ef-8414-7b0479d1ae98)
